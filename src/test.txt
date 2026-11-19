@@ -1,0 +1,29 @@
+web development
+
+Web development is the process of creating, designing, and maintaining websites and web applications. 
+It uses technologies like HTML, CSS, and JavaScript to make websites attractive, interactive, responsive, 
+and easy to use on different devices.
+
+react
+
+React is a JavaScript library used to create user interfaces for websites and web applications. 
+It helps developers build reusable components, manage data using state and props, and update 
+different parts of a webpage efficiently.
+
+js
+
+JavaScript is a programming language used to make websites interactive and dynamic. 
+It allows developers to add features like button clicks, form validation, animations, 
+dropdown menus, and other functions that make websites respond to user actions.
+
+css
+
+CSS stands for Cascading Style Sheets. It is used to style and design websites by adding colours, 
+fonts, backgrounds, spacing, borders, and layouts. It makes websites attractive, organized, responsive, 
+and easier for users to navigate.
+
+ui
+
+UI stands for User Interface. It refers to the visual parts of a website or application that users 
+interact with, such as buttons, menus, icons, images, and forms. A good UI makes an application 
+attractive, simple, and easy to use.
